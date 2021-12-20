@@ -11,4 +11,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_equals
   value: celular_de_fer.necesita_saldo()
-name: Ejercicio 2
+name: Cambio de celular
