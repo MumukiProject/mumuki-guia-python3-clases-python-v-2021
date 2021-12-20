@@ -1,4 +1,4 @@
-AlgoBueno, Eli nos pidió su celular nuevamente y parece que esta vez es en serio. :grimacing:
+Bueno, Eli nos pidió su celular nuevamente y parece que esta vez es en serio. :grimacing:
 
 Por suerte, Fer nos facilita el suyo. Lo que no sabemos es si nos servirá para hacer las mismas pruebas. Comprobemos eso antes de continuar.
 
