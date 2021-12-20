@@ -14,4 +14,4 @@ Detallemos un poco este código:
 * el celular de Eli inicialmente tiene 70% de batería y $100 de saldo;
 * el de Fer, en cambio, tiene inicialmente 50% de batería y $300 de saldo.
 
-> Ahora te toca a vos, creá al `celular_de_lu` que inicialmente tiene 50% de batería y $80 de saldo. 
+> Ahora te toca a vos, creá al `celular_de_lu` que inicialmente tiene 50% de batería y $80 de saldo.
