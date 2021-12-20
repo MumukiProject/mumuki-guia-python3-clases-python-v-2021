@@ -2,9 +2,9 @@ Hasta el momento estuvimos enviando mensajes a distintos objetos.
 Por ejemplo el `celular_de_eli` entendía los siguientes:
 
 ```python
-ム celular_de_eli.necesita_saldo
-ム celular_de_eli.tiene_bateria_maxima
-ム celular_de_eli.cargar_a_tope
+ム celular_de_eli.necesita_saldo()
+ム celular_de_eli.tiene_bateria_maxima()
+ム celular_de_eli.cargar_a_tope()
 ```
 
 Pero.... Para consultar y modificar `saldo` y `bateria` deberíamos tener sus valores guardados en alguna parte ¿no? :face_with_monocle:
