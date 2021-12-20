@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_equals
-  value: necesita_saldo
+  value: celular_de_fer.necesita_saldo()
 name: Ejercicio 2
