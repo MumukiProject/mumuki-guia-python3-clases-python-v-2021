@@ -1,5 +1,4 @@
-Hasta el momento estuvimos enviando mensajes a distintos objetos.
-Por ejemplo el `celular_de_eli` entendía los siguientes:
+Hasta el momento estuvimos enviando mensajes a distintos objetos. Por ejemplo, el `celular_de_eli` entendía los siguientes:
 
 ```python
 ム celular_de_eli.necesita_saldo()
@@ -7,12 +6,13 @@ Por ejemplo el `celular_de_eli` entendía los siguientes:
 ム celular_de_eli.cargar_a_tope()
 ```
 
-Pero.... Para consultar y modificar `saldo` y `bateria` deberíamos tener sus valores guardados en alguna parte ¿no? :face_with_monocle:
+Pero… ¿cómo sabemos si el celular necesita saldo o si tiene la batería máxima?¿qué sucede cuando lo cargamos a tope? Para hacer consultas y modificar al `celular_de_eli` deberíamos tener su saldo y batería guardados en alguna parte, ¿no? :face_with_monocle:
 
-En objetos tenemos a los **atributos** que también son objetos, y nos permiten guardar valores y representar caracteristicas del objeto que los posea.
-Los objetos pueden tener múltiples atributos y al conjunto de los mismos se lo denomina **estado**.
+¡Exacto! Los objetos tienen **atributos** y al conjunto de los mismos se los denomina **estado**. Los atributos también son objetos y nos permiten guardar valores y representar características del objeto que los posea. 
 
-> Veamos si se entiende, probá en la consola los siguientes comandos:
+Para conocer el estado de un objeto, podemos acceder a cada uno de sus atributos de esta forma:
+
+> Probá en la consola los siguientes comandos para saber el saldo y la batería del `celular_de_eli`:
 >
 ```python
 ム celular_de_eli.bateria
