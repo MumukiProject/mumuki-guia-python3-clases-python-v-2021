@@ -1,0 +1,1 @@
+Si bien hablamos de porcentajes de batería y de plata en saldo, no es necesario usar los símbolos % ni $, ya que una de las ventajas de la programación es que podemos representar información de forma más simple. Con el número alcanza. :wink:
