@@ -6,5 +6,3 @@ Hagamos un breve repaso. Sabemos que los objetos tienen:
 * un estado, es decir, los atributos que posee. 
 
 :warning: Cuidado con la sintaxis. Habrás notado que, a diferencia de cuando envíamos un mensaje, al acceder a un atributo lo hacemos sin el uso de paréntesis.
-
-
