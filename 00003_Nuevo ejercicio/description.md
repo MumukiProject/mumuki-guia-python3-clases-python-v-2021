@@ -1,6 +1,6 @@
-El celular de Eli y el de Fer eran muy parecidos, pero esto no es una casualidad. De hecho, ambos se "crearon" de la misma manera, la pregunta es, ¿cómo?
+El celular de Eli y el de Fer eran muy parecidos, pero esto no es una casualidad. De hecho, ambos se "crearon" de la misma manera, la pregunta es, ¿cómo? :thinking:
 
-Con otros objetos no tuvimos esta inquietud. Por ejemplo, para utilizar un número directamente lo escribimos, para crear un string sabemos que debemos escribir entre comillas, pero acá estamos hablando de celulares. 
+Con otros objetos no tuvimos esta inquietud. Por ejemplo, para utilizar un número directamente lo escribimos, para crear un string sabemos que debemos escribir entre comillas, pero acá estamos hablando de celulares. :iphone:
 
 Los celulares que utilizamos hasta ahora, se crearon utilizando el siguiente código:
 
