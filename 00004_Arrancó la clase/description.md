@@ -21,6 +21,6 @@ class Cancion:
 
 ¿Qué es `__init__`?¿Ese parámetro `self` para qué está? 
 
-Estas son preguntas que quedarán respondidas a la brevedad, pero antes… 
+Estas son preguntas que serán respondidas a la brevedad, pero antes… 
 
 > Definí la clase `Celular` que nos permita crear instancias con una batería y un saldo inicial.
