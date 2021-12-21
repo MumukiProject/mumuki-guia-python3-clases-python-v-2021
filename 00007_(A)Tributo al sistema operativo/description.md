@@ -1,0 +1,3 @@
+Anteriormente, dijimos que los atributos nos permiten almacenar valores y representar características de nuestros objetos. Hasta este punto, sabemos que cada instancia de la clase `Celular` tiene su propia `bateria` y `saldo`, pero hay otra particularidad que es inherente a cada uno de ellos… ¡el sistema operativo! :calling:
+
+> Modificá el constructor de la clase `Celular` para que al instanciar nuevos objetos podamos indicarle su `sistema_operativo`.

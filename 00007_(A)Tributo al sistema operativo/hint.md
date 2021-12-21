@@ -1,0 +1,1 @@
+El sistema operativo será el último parámetro de nuestro constructor.
