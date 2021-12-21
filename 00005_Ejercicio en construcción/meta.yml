@@ -18,4 +18,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: PENDIENTE 3
   checked: false
-name: Ejercicio 5
+name: Ejercicio en construcción
