@@ -1,0 +1,1 @@
+El saldo que recibimos en `cargar_saldo` no reemplaza al actual sino que se le suma. :heavy_plus_sign:
