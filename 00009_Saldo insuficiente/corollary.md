@@ -1,0 +1,1 @@
+Para tranquilidad de Eli, vamos a abandonar el mundo de los celulares… por ahora. :wink:
