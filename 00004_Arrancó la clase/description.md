@@ -19,7 +19,7 @@ class Cancion:
     self.banda = una_banda
 ```
 
-¿Qué es `__init__`?¿Ese parámetro `self` para qué está? 
+Donde `titulo` y `banda` son atributos de sus instancias. Pero... ¿qué es `__init__`?¿Ese parámetro `self` para qué está? 
 
 Estas son preguntas que serán respondidas a la brevedad, pero antes… 
 
