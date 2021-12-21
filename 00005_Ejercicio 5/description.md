@@ -1,4 +1,4 @@
-En el ejercicio anteriro nos quedó pendiente la respuesta a las preguntas que pudieran surgir sobre `__init__` y `self`.
+En el ejercicio anterior nos quedó pendiente la respuesta a las preguntas que pudieran surgir sobre `__init__` y `self`.
 
 `__init__` es lo que se conoce como el **constructor** de una clase, es lo que nos permite crear instancias de la misma.
 
