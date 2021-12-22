@@ -6,6 +6,6 @@
     self.assertEqual(celular.bateria,100)
     
     
-  def test_un_celular_necesita_saldo_si_tiene_$0(self):
+  def test_un_celular_necesita_saldo_si_tiene_0(self):
     celular = Celular(100, 0)
     self.assertTrue(celular.necesita_saldo())
