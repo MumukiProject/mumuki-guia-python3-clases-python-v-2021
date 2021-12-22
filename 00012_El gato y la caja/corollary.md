@@ -1,0 +1,1 @@
+Ningún gatito fue encerrado en el desarrollo de estas guías. :smirk_cat:
