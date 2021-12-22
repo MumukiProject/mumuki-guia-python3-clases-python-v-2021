@@ -7,4 +7,4 @@
     
   def test_un_celular_necesita_saldo_si_tiene_0(self):
     celular = Celular(0, 0)
-    self.assertTrue(celular.())
+    self.assertTrue(celular.necesita_saldo())
