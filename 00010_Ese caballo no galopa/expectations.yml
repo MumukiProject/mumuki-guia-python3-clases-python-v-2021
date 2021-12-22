@@ -1,0 +1,23 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresClass:Caballo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Caballo
+  inspection: DeclaresComputation:__init__
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Caballo
+  inspection: DeclaresComputation:comer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Caballo
+  inspection: DeclaresComputation:galopar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Caballo
+  inspection: DeclaresComputationWithArity3:__init__
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Caballo
+  inspection: DeclaresComputationWithArity2:comer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Caballo
+  inspection: DeclaresComputationWithArity2:galopar
