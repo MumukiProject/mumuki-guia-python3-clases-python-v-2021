@@ -1,6 +1,6 @@
 Ya vimos que al enviarle un mensaje a un objeto, este lo puede entender o no. Pero aún no sabemos qué determina si esto sucederá o no. :face_with_monocle:
 
-Para que un objeto entienda un mensaje debemos "enseñarle" cómo hacerlo, y para ello es necesario definir un **método** dentro de la clase a la que pertenece. Un método es, entonces, la descripción de qué hacer cuando se recibe un mensaje del mismo nombre. El conjunto de estos métodos es lo que provee de comportamiento a las instancias de una clase. 
+Para que un objeto entienda un mensaje debemos "enseñarle" cómo hacerlo, y para ello es necesario definir un **método** dentro de la clase a la que pertenece. Un método es, entonces, la descripción de qué hacer cuando se recibe un mensaje del mismo nombre. El conjunto de estos métodos provee de comportamiento a las instancias de una clase. 
 
 Por ejemplo, para que nuestra clase `Celular` entienda el mensaje `tiene_bateria_maxima` podría estar definida de la siguiente manera:
 
