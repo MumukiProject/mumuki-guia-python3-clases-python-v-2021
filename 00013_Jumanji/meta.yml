@@ -15,4 +15,23 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "`pepita` entiende el mensaje `galopar`"
   checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`"Cuarto De Milla"` es la `ciudad` de `nano`'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`theo` y `nano` hacen lo mismo cuando reciben el mensaje `comer`"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`theo` y `kali` hacen lo mismo cuando reciben el mensaje `comer`"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`kali` tiene más años que `theo`"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Si hacemos `pepita.volar_hacia("Quilmes")` su ciudad será `"Quilmes"` y su
+    energía `50`
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Si hacemos `nano.comer(100)` su energía será `700`
+  checked: true
 name: Jumanji
