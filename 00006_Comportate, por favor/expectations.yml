@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Celular
+  inspection: DeclaresComputationWithArity1:necesita_saldo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Celular
+  inspection: DeclaresComputationWithArity1:cargar_a_tope
