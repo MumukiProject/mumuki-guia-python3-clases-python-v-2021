@@ -8,3 +8,7 @@
   def test_un_celular_necesita_saldo_si_tiene_0(self):
     celular = Celular(0, 0)
     self.assertTrue(celular.necesita_saldo())
+    
+  def test_un_celular_no_necesita_saldo_si_tiene_más_de_0(self):
+    celular = Celular(0, 100)
+    self.assertFalse(celular.necesita_saldo())
