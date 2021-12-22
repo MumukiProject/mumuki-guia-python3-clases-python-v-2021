@@ -1,1 +1,1 @@
-`cumplir_anio` solo tiene `self` como parámetro ya que siempre aumentan en 1 su `edad`.
+`cumplir_anio` solo tiene `self` como parámetro ya que siempre se aumenta en 1 la `edad`.
