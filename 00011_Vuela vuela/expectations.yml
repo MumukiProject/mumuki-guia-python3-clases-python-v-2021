@@ -1,0 +1,23 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresClass:Golondrina
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Golondrina
+  inspection: DeclaresComputation:__init__
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Golondrina
+  inspection: DeclaresComputation:comer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Golondrina
+  inspection: DeclaresComputation:volar_hacia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Golondrina
+  inspection: DeclaresComputationWithArity3:__init__
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Golondrina
+  inspection: DeclaresComputationWithArity2:comer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Golondrina
+  inspection: DeclaresComputationWithArity2:volar_hacia
