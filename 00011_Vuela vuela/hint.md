@@ -1,1 +1,1 @@
-En la `Biblioteca` te dejamos la clase `Caballo` para que uses de referencia. :horse:
+En la `</> Biblioteca` te dejamos la clase `Caballo` para que uses de referencia. :horse:
