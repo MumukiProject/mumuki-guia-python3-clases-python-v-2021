@@ -1,0 +1,23 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresClass:Gato
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Gato
+  inspection: DeclaresComputation:__init__
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Gato
+  inspection: DeclaresComputation:comer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Gato
+  inspection: DeclaresComputation:cumplir_anios
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Gato
+  inspection: DeclaresComputationWithArity3:__init__
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Gato
+  inspection: DeclaresComputationWithArity2:comer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Gato
+  inspection: DeclaresComputationWithArity1:cumplir_anios
