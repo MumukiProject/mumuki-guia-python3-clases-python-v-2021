@@ -2,7 +2,7 @@ Ya vimos que al enviarle un mensaje a un objeto, este lo puede entender o no. Pe
 
 Para que un objeto entienda un mensaje debemos "enseñarle" cómo hacerlo, y para ello es necesario definir un **método** dentro de la clase a la que pertenece. Un método es, entonces, la descripción de qué hacer cuando se recibe un mensaje del mismo nombre. El conjunto de métodos es lo que provee de comportamiento a las instancias de una clase. 
 
-Por ejemplo, para que nuestra clase `Celular` entienda el mensaje `necesita_saldo` podría estar definida de la siguiente manera:
+Por ejemplo, para que nuestra clase `Celular` entienda el mensaje `tiene_bateria_maxima` podría estar definida de la siguiente manera:
 
 ```python
 class Celular:
