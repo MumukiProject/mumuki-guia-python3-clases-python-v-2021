@@ -1,12 +1,12 @@
   
   def test_cuando_una_golondrina_come_20_gramos_su_energia_aumenta_10(self):
     una_golondrina = Golondrina(100, 'General Las Heras')
-    un_caballo.comer(20)
+    una_golondrina.comer(20)
     self.assertEqual(una_golondrina.energia, 110)
     
   def test_cuando_una_golondrina_come_50_gramos_su_energia_aumenta_25(self):
     una_golondrina = Golondrina(100, 'Quilmes')
-    un_caballo.comer(50)
+    una_golondrina.comer(50)
     self.assertEqual(una_golondrina.energia, 125)
 
   def test_cuando_una_golondrina_vuela_a_una_ciudad_su_energia_disminuye_a_la_mitad(self):
