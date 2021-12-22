@@ -10,12 +10,12 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: PENDIENTE
+  value: "```python\nclass Pintura:\n  def init(self, un_artista, una_tecnica, un_ancho, un_alto):\n        \nself.artista = un_artista\n        self.tecnica = una_tecnica\n        self.ancho = un_ancho\n        self.alto = un_alto```\n"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: PENDIENTE 2
+  value: "```python\nclass Pintura:\n  def __init__(self, un_artista, una_tecnica, un_ancho, un_alto):\n        \nself.artista = un_artista\n        self.tecnica = una_tecnica\n        self.ancho = un_ancho\n        self.alto = un_alto```\n"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: PENDIENTE 3
+  value: "```python\nclass Pintura:\n  def __init__(un_artista, una_tecnica, un_ancho, un_alto):\n        \nartista = un_artista\n        tecnica = una_tecnica\n        ancho = un_ancho\n        alto = un_alto```\n"
   checked: false
 name: Ejercicio en construcción
