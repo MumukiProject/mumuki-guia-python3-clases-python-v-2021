@@ -1,4 +1,4 @@
-Ahora que el `Caballo` quedó listo para el trote, vayamos volando a hacer la clase `Golondrina`. :bird:
+Ahora que el `Caballo` quedó listo para el trote :face_with_raised_eyebrow:, vayamos volando a hacer la clase `Golondrina`. :bird:
 
 De las golondrinas sabemos que:
 
