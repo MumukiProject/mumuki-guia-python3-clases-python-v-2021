@@ -1,4 +1,4 @@
-_¡Gracias Eli! Ya te lo devolvemos._ :pray:
+_¡Gracias, Eli! Ya te lo devolvemos._ :pray:
 
 Lo que vamos a hacer ahora es agregarle al celular de Eli el sistema operativo. Para eso vamos a "instalarle" `"Humanoid 10"`. 
 
