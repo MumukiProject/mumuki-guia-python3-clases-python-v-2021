@@ -7,7 +7,7 @@ cancion_favorita_de_gus = Cancion("Cinema Verité", "Serú Girán")
 ```
 
 * `Cancion` es una clase;
-* `Cancion("Cinema Verité", "Serú Girán")` nos permite crear una instancia de la clase `Cancion` con el título `"Cinema Verité"` y la banda `"Serú Girán"`;
+* `Cancion("Cinema Verité", "Serú Girán")` nos permite instanciar un objeto de la clase `Cancion` con el título `"Cinema Verité"` y la banda `"Serú Girán"`; 
 * `cancion_favorita_de_gus` es una referencia a esa instancia para que podamos acceder a ella.
 
 Y la clase está definida de la siguiente manera:
