@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Celular
-  inspection: DeclaresComputation:cargar_saldo
+  inspection: DeclaresMethod:cargar_saldo
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Celular
   inspection: DeclaresComputationWithArity2:cargar_saldo
