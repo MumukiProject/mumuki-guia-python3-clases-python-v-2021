@@ -5,13 +5,13 @@ expectations:
   inspection: DeclaresClass:Gato
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Gato
-  inspection: DeclaresComputation:__init__
+  inspection: DeclaresMethod:__init__
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Gato
-  inspection: DeclaresComputation:comer
+  inspection: DeclaresMethod:comer
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Gato
-  inspection: DeclaresComputation:cumplir_anios
+  inspection: DeclaresMethod:cumplir_anios
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Gato
   inspection: DeclaresComputationWithArity3:__init__
