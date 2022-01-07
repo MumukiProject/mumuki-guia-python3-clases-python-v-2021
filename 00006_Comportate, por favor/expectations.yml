@@ -2,10 +2,10 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Celular
-  inspection: DeclaresComputation:necesita_saldo
+  inspection: DeclaresMethod:necesita_saldo
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Celular
-  inspection: DeclaresComputation:cargar_a_tope
+  inspection: DeclaresMethod:cargar_a_tope
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Celular
   inspection: DeclaresComputationWithArity1:necesita_saldo

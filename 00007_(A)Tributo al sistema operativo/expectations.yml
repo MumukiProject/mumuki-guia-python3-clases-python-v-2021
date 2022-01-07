@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Celular
-  inspection: DeclaresComputation:__init__
+  inspection: DeclaresMethod:__init__
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Celular
   inspection: DeclaresComputationWithArity4:__init__
