@@ -5,13 +5,13 @@ expectations:
   inspection: DeclaresClass:Golondrina
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Golondrina
-  inspection: DeclaresComputation:__init__
+  inspection: DeclaresMethod:__init__
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Golondrina
-  inspection: DeclaresComputation:comer
+  inspection: DeclaresMethod:comer
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Golondrina
-  inspection: DeclaresComputation:volar_hacia
+  inspection: DeclaresMethod:volar_hacia
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Golondrina
   inspection: DeclaresComputationWithArity3:__init__
