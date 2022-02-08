@@ -1,6 +1,6 @@
-Los celulares con los que venimos trabajando, los creamos utilizando `Celular`. `Celular` es un molde que nos permite crear objetos. Estos moldes se denominan **clases** y cada objeto que creamos a partir de ellas es una **instancia**. 
+Los celulares con los que venimos trabajando, los creamos utilizando `Celular`. 
 
-Por ejemplo, en el siguiente código:
+`Celular` es un molde que nos permite crear objetos. Estos moldes se denominan **clases** y cada objeto que creamos a partir de ellas es una **instancia**. Por ejemplo, en el siguiente código:
 
 ```python
 cancion_favorita_de_gus = Cancion("Cinema Verité", "Serú Girán")
