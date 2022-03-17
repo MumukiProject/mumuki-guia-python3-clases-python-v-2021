@@ -1,5 +1,7 @@
 Ahora que el `Caballo` quedó listo para el trote :face_with_raised_eyebrow:, vayamos volando a hacer la clase `Golondrina`. :bird:
 
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-python3-clases-python-v-2021/master/assets/clases_2_1647535419791.11.svg" alt="clases_2_1647535419791.11.svg" width="300px" height="auto">
+
 De las golondrinas sabemos que:
 
 * tienen una `energia` y una `ciudad` como atributos;
