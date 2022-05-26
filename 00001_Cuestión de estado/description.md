@@ -14,7 +14,10 @@ Para conocer el estado de un objeto, podemos acceder a cada uno de sus atributos
 
 > Probá en la consola los siguientes comandos para saber el saldo y la batería del `celular_de_eli`:
 >
-```python
-ム celular_de_eli.bateria
-ム celular_de_eli.saldo
+>```python
+ムcelular_de_eli.bateria
+```
+>
+>```python
+ムcelular_de_eli.saldo
 ```
