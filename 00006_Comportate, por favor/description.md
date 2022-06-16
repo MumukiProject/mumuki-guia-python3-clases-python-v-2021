@@ -6,9 +6,9 @@ Por ejemplo, para que nuestra clase `Celular` entienda el mensaje `tiene_bateria
 
 ```python
 class Celular:
-  def __init__(self, bateria, saldo):
-    self.bateria = bateria
-    self.saldo = saldo
+  def __init__(self, una_bateria, un_saldo):
+    self.bateria = una_bateria
+    self.saldo = un_saldo
 
   def tiene_bateria_maxima(self):
     return self.bateria == 100
