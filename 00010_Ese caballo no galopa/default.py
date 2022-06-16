@@ -1,7 +1,7 @@
 class caballo
-  def __init__(energia, raza):
-    energia = energia
-    raza = raza
+  def __init__(una_energia, una_raza):
+    energia = una_energia
+    raza = una_raza
 
   def comer(gramos):
     energia += gramos * 2
