@@ -23,4 +23,4 @@ Donde `titulo` y `banda` son atributos de sus instancias. Pero... ¿qué es ese 
 
 Estas son preguntas que serán respondidas a la brevedad, pero antes… 
 
-> Definí la clase `Celular` que nos permita crear instancias con una batería y un saldo inicial.
+> Definí la clase `Celular` que nos permita crear instancias con `una_bateria` y `un_saldo` iniciales.
