@@ -1,4 +1,4 @@
-Ya pudimos crear nuevos objetos utilizando clases. Si ahora quisieramos crear la noche estrellada a partir de la clase `Pintura`, podríamos escribir:
+Ya pudimos crear nuevos objetos utilizando clases. Si ahora quisiéramos crear la noche estrellada a partir de la clase `Pintura`, podríamos escribir:
 
 ```python
 la_noche_estrellada = Pintura('Vincent van Gogh', 'impresionismo', 92, 74)
