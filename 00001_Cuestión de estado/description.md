@@ -10,7 +10,7 @@ Pero… ¿cómo sabemos si el celular necesita saldo o si tiene la batería máx
 
 ¡Exacto! Los objetos tienen **atributos** y al conjunto de los mismos se los denomina **estado**. Los atributos también son objetos y nos permiten guardar valores y representar características del objeto que los posea. 
 
-Para conocer el estado de un objeto, podemos acceder a cada uno de sus atributos de esta forma:
+Para conocer el estado de un objeto, podemos acceder a cada uno de sus atributos escribiendo `objeto.atributo`, habrás notado que, a diferencia de cuando envíamos un mensaje, al acceder a un atributo lo hacemos sin el uso de paréntesis.
 
 > Probá en la consola los siguientes comandos para saber el saldo y la batería del `celular_de_eli`:
 >
