@@ -24,3 +24,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: __init__
   inspection: Assigns:energia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: __init__
+  inspection: Assigns:ciudad
