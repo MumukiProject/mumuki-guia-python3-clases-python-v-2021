@@ -21,3 +21,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Golondrina
   inspection: DeclaresComputationWithArity2:volar_hacia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: __init__
+  inspection: Assigns:energia

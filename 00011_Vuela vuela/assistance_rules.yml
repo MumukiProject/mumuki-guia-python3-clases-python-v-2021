@@ -1,6 +1,0 @@
----
-rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    error_contains: has no attribute
-  then: blabla
