@@ -5,6 +5,8 @@ rules:
     these_expectations_failed:
     - __init__ Assigns:energia
     - __init__ Assigns:ciudad
+    - __init__ Not:Assigns:una_energia
+    - __init__ Not:Assigns:una_ciudad
   then: "`una_energia` y `una_ciudad` son los nombres de los parámetros de `__init__`.
     No es necesario que coincidan con los nombres de los atributos `energia` y `ciudad`
     de la clase `Golondrina`"
