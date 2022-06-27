@@ -1,0 +1,7 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    error_contains: indentation
+  then: Tené en cuenta que todos los métodos comienzan con una tabulación después
+    del margen. Para tabular podés utilizar la tecla  `Tab ↹`
