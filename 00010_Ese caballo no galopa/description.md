@@ -1,6 +1,9 @@
 Ahora que sabemos cómo definir clases con atributos y métodos nos pidieron que corrijamos el siguiente código.
 
-Los errores a corregir en este ejercicio son de sintaxis, no de lógica. Al `comer` los caballos efectivamente aumentan su energía en el doble de los gramos que reciben y al `galopar` pierden tanta energía como los kms que lo hagan. :racehorse:
+Los errores a corregir en este ejercicio son de sintaxis, no de lógica. 
+
+- Al `comer`, los caballos efectivamente aumentan su energía en el doble de los gramos que reciben; 
+- y, al `galopar`, pierden tanta energía como los kilómetros que lo hagan. :racehorse:
 
 > Corregí la siguiente clase, teniendo en cuenta que deberá corresponderse con este diagrama:
 >

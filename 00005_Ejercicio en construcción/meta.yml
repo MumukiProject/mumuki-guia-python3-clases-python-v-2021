@@ -8,18 +8,16 @@ extra_visible: false
 language: text
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```python\nclass Pintura:\n  def init(self, un_artista, una_tecnica, un_ancho,
+- value: "```python\nclass Pintura:\n  def init(self, un_artista, una_tecnica, un_ancho,
     un_alto):    \n        self.artista = un_artista\n        self.tecnica = una_tecnica\n
     \       self.ancho = un_ancho\n        self.alto = un_alto \n```\n"
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```python\nclass Pintura:\n  def __init__(self, un_artista, una_tecnica,
+- value: "```python\nclass Pintura:\n  def __init__(self, un_artista, una_tecnica,
     un_ancho, un_alto):\n        self.artista = un_artista\n        self.tecnica =
     una_tecnica\n        self.ancho = un_ancho\n        self.alto = un_alto \n```\n"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```python\nclass Pintura:\n  def __init__(un_artista, una_tecnica, un_ancho,
+- value: "```python\nclass Pintura:\n  def __init__(un_artista, una_tecnica, un_ancho,
     un_alto):      \n        artista = un_artista\n        tecnica = una_tecnica\n
     \       ancho = un_ancho\n        alto = un_alto \n```\n"
   checked: false

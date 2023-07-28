@@ -1,1 +1,1 @@
-En este caso el orden de los factores es importante, la batería tiene que ir antes del saldo. ¡Ah! y no te olvides de poner `self` como primer parámetro. :eyes:
+En este caso el orden de los factores es importante, la batería tiene que ir antes del saldo. ¡Ah! Y no te olvides de poner `self` como primer parámetro. :eyes:

@@ -19,7 +19,7 @@ class Cancion:
     self.banda = una_banda
 ```
 
-Donde `titulo` y `banda` son atributos de sus instancias. Pero... ¿qué es ese `init` con dos guiones bajos de cada lado?¿Ese parámetro `self` para qué está? :thought_balloon:
+Donde `titulo` y `banda` son atributos de sus instancias. Pero... ¿qué es ese `init` con dos guiones bajos de cada lado? ¿Ese parámetro `self` para qué está? :thought_balloon:
 
 Estas son preguntas que serán respondidas a la brevedad, pero antes… 
 
