@@ -10,6 +10,8 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal:
-  kind: last_query_equals
-  value: celular_de_eli.saldo
+  kind: queries_match
+  regexps:
+  - "^celular_de_eli.bateria\\s*$"
+  - "^celular_de_eli.saldo\\s*$"
 name: Cuestión de estado
